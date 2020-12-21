@@ -1,0 +1,34 @@
+body{
+    background: plum;
+    font: normal 18pt Helvetica;
+}
+header{
+    color: whitesmoke;
+    text-align: center;
+}
+section{
+    color: skyblue;
+    background: purple;
+    border-radius: 30px;
+    padding: 30px;
+    width: 800px;
+    margin: auto;
+    box-shadow: 10px 10px 20px black;
+} 
+section img{
+    width: 250px;
+    height: 250px;
+    margin: 40px;
+    border-radius: 30px;
+
+}  
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+
+}
+div{
+    text-align: center;
+    margin: 20px;
+}
